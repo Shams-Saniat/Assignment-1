@@ -14,7 +14,10 @@
     border-radius: 5px;
 }
 
-.banner {}
+body{
+    max-width: 1200px;
+    margin: 0 auto;
+}
 
 .banner-content {
     background-image: url("../assets/Hero-bg.png");
@@ -107,7 +110,7 @@
     display: flex;
     align-items: center;
     justify-content: center;
-    background-image: url('/assets/handshake.jpg');
+    background-image: url('../assets/handshake.jpg');
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
@@ -154,3 +157,28 @@ button {
 
 
 /* Support style ends */
+
+.footer {
+    height: 100px;
+    padding: 32px 50px 32px 50px;
+    border-radius: 16px;
+    background: rgba(13, 19, 33, 0.03);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.footer-container {
+    height: 50px;
+    background-color: white;
+    display: flex;
+    padding: 10px;
+    justify-content: space-between;
+    font-family: Azeret Mono;
+    font-size: 20px;
+    font-weight: 600;
+}
+
+footer a {
+    margin: 0 10px;
+}
