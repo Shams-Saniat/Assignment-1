@@ -1,7 +1,7 @@
-# Awlad Hossain's Web Development Journey
+# Personal Commitment and Learning Web Development Journey
 
 ## About Me
-Hi, I'm Awlad Hossain, an aspiring web developer passionate about creating impactful, user-friendly applications. My goal is to enhance digital experiences globally by developing advanced web systems.
+Welcome to the Personal Commitment and Learning website repository! This project showcases a modern, responsive website designed exclusively using HTML and CSS.
 
 ## Project Overview
 This project showcases my ability to build modern, responsive websites using only **HTML** and **CSS**. It demonstrates my commitment to learning and mastering web development skills.
